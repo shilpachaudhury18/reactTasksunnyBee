@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SunnyBee-MarketDeploy/static/css/main.da9d6271.chunk.css",
+    "main.js": "/SunnyBee-MarketDeploy/static/js/main.feebd393.chunk.js",
+    "main.js.map": "/SunnyBee-MarketDeploy/static/js/main.feebd393.chunk.js.map",
+    "runtime-main.js": "/SunnyBee-MarketDeploy/static/js/runtime-main.4190ad3d.js",
+    "runtime-main.js.map": "/SunnyBee-MarketDeploy/static/js/runtime-main.4190ad3d.js.map",
+    "static/js/2.be3df99b.chunk.js": "/SunnyBee-MarketDeploy/static/js/2.be3df99b.chunk.js",
+    "static/js/2.be3df99b.chunk.js.map": "/SunnyBee-MarketDeploy/static/js/2.be3df99b.chunk.js.map",
+    "static/js/3.7c3ce7d0.chunk.js": "/SunnyBee-MarketDeploy/static/js/3.7c3ce7d0.chunk.js",
+    "static/js/3.7c3ce7d0.chunk.js.map": "/SunnyBee-MarketDeploy/static/js/3.7c3ce7d0.chunk.js.map",
+    "index.html": "/SunnyBee-MarketDeploy/index.html",
+    "static/css/main.da9d6271.chunk.css.map": "/SunnyBee-MarketDeploy/static/css/main.da9d6271.chunk.css.map",
+    "static/js/2.be3df99b.chunk.js.LICENSE.txt": "/SunnyBee-MarketDeploy/static/js/2.be3df99b.chunk.js.LICENSE.txt",
+    "static/media/groce_des.68e58f30.jpg": "/SunnyBee-MarketDeploy/static/media/groce_des.68e58f30.jpg",
+    "static/media/vegis_des.46319a63.jpg": "/SunnyBee-MarketDeploy/static/media/vegis_des.46319a63.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4190ad3d.js",
+    "static/js/2.be3df99b.chunk.js",
+    "static/css/main.da9d6271.chunk.css",
+    "static/js/main.feebd393.chunk.js"
+  ]
+}
